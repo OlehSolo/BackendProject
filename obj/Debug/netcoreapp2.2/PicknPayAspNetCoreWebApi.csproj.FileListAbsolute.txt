@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\PicknPayAspNetCoreWebApi\PicknPayAspNetCoreWebApi\bin\Debug\netcoreapp2.2\PicknPayAspNetCoreWebApi.deps.json
+C:\Users\User\Desktop\PicknPayAspNetCoreWebApi\PicknPayAspNetCoreWebApi\bin\Debug\netcoreapp2.2\PicknPayAspNetCoreWebApi.runtimeconfig.json
+C:\Users\User\Desktop\PicknPayAspNetCoreWebApi\PicknPayAspNetCoreWebApi\bin\Debug\netcoreapp2.2\PicknPayAspNetCoreWebApi.runtimeconfig.dev.json
+C:\Users\User\Desktop\PicknPayAspNetCoreWebApi\PicknPayAspNetCoreWebApi\bin\Debug\netcoreapp2.2\PicknPayAspNetCoreWebApi.dll
+C:\Users\User\Desktop\PicknPayAspNetCoreWebApi\PicknPayAspNetCoreWebApi\bin\Debug\netcoreapp2.2\PicknPayAspNetCoreWebApi.pdb
+C:\Users\User\Desktop\PicknPayAspNetCoreWebApi\PicknPayAspNetCoreWebApi\obj\Debug\netcoreapp2.2\PicknPayAspNetCoreWebApi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PicknPayAspNetCoreWebApi\PicknPayAspNetCoreWebApi\obj\Debug\netcoreapp2.2\PicknPayAspNetCoreWebApi.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\PicknPayAspNetCoreWebApi\PicknPayAspNetCoreWebApi\obj\Debug\netcoreapp2.2\PicknPayAspNetCoreWebApi.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\PicknPayAspNetCoreWebApi\PicknPayAspNetCoreWebApi\obj\Debug\netcoreapp2.2\PicknPayAspNetCoreWebApi.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PicknPayAspNetCoreWebApi\PicknPayAspNetCoreWebApi\obj\Debug\netcoreapp2.2\PicknPayAspNetCoreWebApi.AssemblyInfo.cs
+C:\Users\User\Desktop\PicknPayAspNetCoreWebApi\PicknPayAspNetCoreWebApi\obj\Debug\netcoreapp2.2\PicknPayAspNetCoreWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\PicknPayAspNetCoreWebApi\PicknPayAspNetCoreWebApi\obj\Debug\netcoreapp2.2\PicknPayAspNetCoreWebApi.dll
+C:\Users\User\Desktop\PicknPayAspNetCoreWebApi\PicknPayAspNetCoreWebApi\obj\Debug\netcoreapp2.2\PicknPayAspNetCoreWebApi.pdb
+C:\Users\User\Desktop\PicknPayAspNetCoreWebApi\PicknPayAspNetCoreWebApi\obj\Debug\netcoreapp2.2\PicknPayAspNetCoreWebApi.csprojAssemblyReference.cache
